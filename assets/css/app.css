@@ -4751,7 +4751,7 @@ span.count {
   }
 }
 .rating {
-  display: flex;
+  display: inline-flex;
   flex-direction: row-reverse;
   gap: 0.3rem;
   --stroke: #666;
